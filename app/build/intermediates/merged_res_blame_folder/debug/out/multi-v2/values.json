@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "192,525",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "484,682"
+                    },
+                    "to": {
+                        "startLines": "22,29",
+                        "startColumns": "4,4",
+                        "startOffsets": "1215,1506",
+                        "endLines": "28,31",
+                        "endColumns": "12,12",
+                        "endOffsets": "1501,1661"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,55",
+                        "endOffsets": "108,164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "19,20,4,23,3,24,13,8,22,7,17,15,16,12,11,6,5,9",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "818,894,112,1015,59,1072,626,354,946,275,771,675,720,563,490,220,166,413",
+                        "endColumns": "74,44,52,55,51,69,41,57,67,77,43,43,49,61,71,53,52,69",
+                        "endOffsets": "888,934,160,1066,106,1137,663,407,1009,348,810,714,765,620,557,269,214,478"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "169,244,289,342,398,450,520,562,620,688,766,810,854,904,966,1038,1092,1145",
+                        "endColumns": "74,44,52,55,51,69,41,57,67,77,43,43,49,61,71,53,52,69",
+                        "endOffsets": "239,284,337,393,445,515,557,615,683,761,805,849,899,961,1033,1087,1140,1210"
+                    }
+                }
+            ]
+        }
+    ]
+}

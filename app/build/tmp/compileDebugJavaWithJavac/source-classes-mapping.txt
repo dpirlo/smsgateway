@@ -1,0 +1,16 @@
+com/jerrymannel/smsgateway/MessageView.java
+ com.jerrymannel.smsgateway.MessageView
+com/jerrymannel/smsgateway/BuildConfig.java
+ com.jerrymannel.smsgateway.BuildConfig
+com/jerrymannel/smsgateway/MySMSGatewayMainActivity.java
+ com.jerrymannel.smsgateway.MySMSGatewayMainActivity
+ com.jerrymannel.smsgateway.MySMSGatewayMainActivity$1
+ com.jerrymannel.smsgateway.MySMSGatewayMainActivity$2
+ com.jerrymannel.smsgateway.MySMSGatewayMainActivity$3
+ com.jerrymannel.smsgateway.MySMSGatewayMainActivity$HTTPServer
+com/jerrymannel/smsgateway/AboutView.java
+ com.jerrymannel.smsgateway.AboutView
+com/jerrymannel/smsgateway/SettingsView.java
+ com.jerrymannel.smsgateway.SettingsView
+ com.jerrymannel.smsgateway.SettingsView$1
+ com.jerrymannel.smsgateway.SettingsView$2

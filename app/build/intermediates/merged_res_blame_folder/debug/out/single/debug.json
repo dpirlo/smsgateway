@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroud_message.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\backgroud_message.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_on.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-hdpi\\on.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroud_stop.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\backgroud_stop.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_slider_on.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\switch_slider_on.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_selector.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\switch_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_off.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-hdpi\\off.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroud_start.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\backgroud_start.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_backgroud_selector.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\backgroud_selector.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\layout_messagehistory.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\layout\\messagehistory.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_bg.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\switch_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\drawable_switch_slider.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\drawable\\switch_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\layout_about.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\layout\\about.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\menu_options_menu.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\menu\\options_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\build\\intermediates\\merged_res\\debug\\layout_port_config.xml.flat",
+        "source": "C:\\Users\\damian\\StudioProjects\\smsgateway\\app\\src\\main\\res\\layout\\port_config.xml"
+    }
+]
